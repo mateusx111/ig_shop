@@ -22,7 +22,7 @@ A tive muito aprendizado pelas boas práticas, organização de código e lógic
 
 ```
 # Clone esse repositório
-$ git clone https://github.com/mateusx111/igShop.git
+$ git clone https://github.com/mateusx111/ig_shop.git
 
 # Certifique-se de estar no caminho correto do projeto
 
