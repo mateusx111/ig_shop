@@ -4,11 +4,11 @@
 
 ![gif](github/igShop.gif)
 
-## 💻 Projeto
+## 💻 Projeto Ig Shop
 
 Projeto desenvolvido no Capítulo 4 da trilha React do Ignite.
 
-O projeto consiste um loja de produtos online, integrado a uma api de pagamentos e rotas para navegação em multoiplas páginas utilizando next para sua construção. Foram usadas todas boas práticas para construir um projeto escalável e profissional.
+O projeto consiste um loja de produtos online, integrado a uma api de pagamentos e rotas para navegação em multiplas páginas utilizando next para sua construção. Foram usadas todas boas práticas para construir um projeto escalável e profissional.
 A tive muito aprendizado pelas boas práticas, organização de código e lógica usadas pelo Instrutor.
 
 ## :rocket: Tecnologias
